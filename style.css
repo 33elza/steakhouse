@@ -42,4 +42,432 @@ ul li
         padding-left:16px; 
         padding-top:20px; 
         padding-right:20px; 
+
         padding-bottom:40px;
+
+        padding-bottom:40px;
+}
+
+.b_3
+{
+        background:url("b3.png") no-repeat; 
+        padding-left:16px; 
+        padding-top:20px; 
+        padding-right:20px; 
+        padding-bottom:40px;
+        margin-right:5px;
+
+}
+
+.b_4
+{
+        background:url("b4.png") no-repeat; 
+        padding-left:30px; 
+        padding-top:20px; 
+        padding-right:33px; 
+        padding-bottom:40px;
+}
+
+.menu ul 
+{
+        font: bold 16px Georgia, "Times New Roman", Times, serif;       
+        padding-left: 0; 
+        margin-left: 0;   
+}
+
+.menu ul li 
+{
+        list-style:none;
+        display: inline; 
+        padding:100px 0 0 0;
+        height:49px;
+        width:290px;
+}
+
+.but_left
+{       
+        float:left;     
+        margin-top:115px;
+        margin-right:10px;
+}
+
+.but_right
+{       
+        float:right;    
+        margin-top:115px;
+}       
+
+.menu a
+{       
+        text-align: center;     
+        padding-top: 10px;
+        text-decoration: none; 
+        color:#600;
+}
+
+.razm
+{
+        width:960px;
+        height:331px;
+        margin-left:auto;
+        margin-right:auto;
+}
+
+.bbanner_back
+{
+        background:url("left_banner.png");
+        height:300px; 
+        width:310px;
+        float:left;
+        padding-top:30px;
+}
+
+.bbanner
+{
+        background:url("big_banner.png") no-repeat;
+        height:331px; 
+        width:650px;
+        float:right;
+}
+
+.bbanner_text1
+{
+        font: bold 33px Arial, Helvetica, sans-serif;
+        color:#4F2700;
+        margin-left:15px;
+}
+
+.nine 
+{
+        font: bold 76px Georgia, "Times New Roman", Times, serif;
+        color:#9D0000;
+        margin-left:45px;
+}
+.bbanner_text2
+{
+        font: normal 14px Arial, Helvetica, sans-serif;
+        margin-left:25px;
+}
+
+.otstup
+{
+        margin-top: 35px;
+}
+.knopka
+{
+        font: bold 18px Georgia, "Times New Roman", Times, serif;
+        color:#FFF;     background:url("button.png")no-repeat;
+        padding-left:35px; 
+        padding-right:55px;
+        padding-top:5px;
+        padding-bottom:40px;
+        margin-left:45px;
+}
+
+.razm a
+{
+        text-align: center;     
+        text-decoration: none;
+}
+
+.razm a:hover
+{       
+        color:#D9D793;          
+}
+
+
+.banners
+{
+        margin-left:auto;
+        margin-right:auto;
+        width:960px;
+        height:235px;
+        margin-top:40px;
+}
+
+.left_banner_back
+{
+        background:url("banner_back.jpg");
+        width:460px;
+        height:235px;
+        float:left;     
+        margin-left:10px;
+}
+
+.right_banner_back
+{
+        background:url("banner_back.jpg");
+        width:460px;
+        height:235px;
+        float:right;
+        margin-right:10px;
+}
+
+.left_banner_text
+{
+        font:normal 26px Arial, Helvetica, sans-serif;
+        color:#FFFFFF;
+        float:right;
+        margin-right:20px;
+        margin-top:30px;
+}
+
+.left_banner
+{
+        background:url("banner1.png") no-repeat top left;
+    width:269px;
+        height:147px;
+        float:left;
+        margin-left:-10px;
+}
+
+.food_text
+{
+        font:bold 53px Georgia, "Times New Roman", Times, serif;
+        color:#FFC;
+        text-shadow: 1px 1px 3px black;
+        float:right;
+        margin-top:20px;
+        margin-right:15px;
+}
+
+
+
+
+.right_banner_text
+{
+        font:normal 26px Arial, Helvetica, sans-serif;
+        color:#FFFFFF;
+        float:right;
+        margin-right:40px;
+        margin-top:55px;
+}
+
+.right_banner
+{
+        background:url("banner2.png") no-repeat top left;
+    width:196px;
+        height:215px;
+        float:left;
+        margin-left:30px;
+        margin-top:15px;
+}
+
+.beer_text
+{
+        font:bold 53px Georgia, "Times New Roman", Times, serif;
+        color:#FFC;
+        text-shadow: 1px 1px 3px black;
+        float:right;
+        margin-right:40px;
+}
+
+
+
+.headers
+{
+        margin-left:auto;
+        margin-right:auto;
+        width:880px;
+        height:40px;
+        margin-top:50px;
+}
+
+.head1
+{
+        font:bold 35px Georgia, "Times New Roman", Times, serif;
+        float:left;
+        letter-spacing:2px;  
+}
+
+.head2
+{
+        font:normal 14px Arial, Helvetica, sans-serif;
+        float:right;
+}
+
+
+.content
+{
+        margin-left:auto;
+        margin-right:auto;
+        margin-top:45px;
+        width:960px;
+        height:370px;
+}
+
+.left_block
+{
+        background:url("news_back.jpg") no-repeat;
+        width:590px;
+        height:330px;
+        float:left;
+        margin-left:10px;
+        padding:20px;
+}
+
+.news_head
+{
+        font:bold 18px Georgia, "Times New Roman", Times, serif;
+        margin-bottom:10px;
+}
+
+.img_news1
+{
+        background:url("news1.png") no-repeat;
+        width:171px;
+        height:111px;
+        float:left;
+        margin-right:10px;
+}
+.content_text
+{
+        font:normal 14px Arial, Helvetica, sans-serif;
+        color:#000;
+        float:left;
+        text-align:justify;
+        line-height:1.6; 
+}
+
+.img_news2
+{
+        background:url("news2.png") no-repeat;
+        width:171px;
+        height:132px;
+        float:left;
+        margin-right:10px;
+}
+
+.right_block
+{
+        width:285px;
+        height:355px;
+        float:right;
+        margin-top:15px;
+        padding-right:10px;
+        
+}
+
+.line
+{
+        border-top: 1px dashed #000; 
+        margin-top:15px;
+        margin-bottom:15px;
+}
+
+
+
+.footer
+{
+        width:940px;
+        height:40px;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top:60px;
+}
+
+.footer_text
+{
+        font:normal 14px Arial, Helvetica, sans-serif;
+}
+.footer_text a
+{
+        color:#000000;
+        text-decoration: none; 
+}
+
+.bbanner_food
+{
+        background:url("banner_food.png");
+        height:325px; 
+        width:993px;
+        float:left;
+        padding-top:40px;
+}
+.bbanner_beer
+{
+        background:url("banner_beer.png");
+        height:325px; 
+        width:993px;
+        float:left;
+        padding-top:40px;
+}
+.bbanner_reservation
+{
+        background:url("banner_reservation.png");
+        height:325px; 
+        width:993px;
+        float:left;
+        padding-top:40px;
+}
+.bbanner_contacts
+{
+        background:url("banner_contacts.png");
+        height:325px; 
+        width:993px;
+        float:left;
+        padding-top:40px;
+}
+
+
+.head11
+{
+        font:bold 35px Georgia, "Times New Roman", Times, serif;
+        float:left;
+        letter-spacing:2px;
+        margin-top:60px;
+          
+}
+
+
+.content1
+{
+        margin-left:auto;
+        margin-right:auto;
+        margin-top:45px;
+        width:960px;
+        height:370px;
+}
+.news_head1
+{
+        font:bold 18px Georgia, "Times New Roman", Times, serif;
+        
+        margin-top:60px;
+}
+.news_head11
+{
+        font:bold 16px Georgia, "Times New Roman", Times, serif;
+        margin-top:50px;
+        
+}
+.news_head12
+{
+        font:bold 16px Georgia, "Times New Roman", Times, serif;
+        margin-top:50px;
+        margin-left:0%;
+        
+}
+
+.img
+{ 
+    float:left;
+     width:50%;
+}
+
+.img1
+{ 
+     float:right;
+     width:40%;
+}
+.img2
+{ 
+   margin-left:auto;
+        margin-right:auto;
+        width:880px;
+        height:40px;
+        margin-top:100px;
+}
+
+
+
+
