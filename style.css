@@ -1,0 +1,45 @@
+.fon
+{
+        background:url("back.jpg");
+        height:1440px;
+        width:auto;
+}
+
+ul
+{
+        padding-left: 0; 
+        margin-left: 0; 
+}
+
+ul li
+{
+        list-style:none;
+        display: inline;
+}
+
+
+
+.menu 
+{
+        margin-left:auto;
+        margin-right:auto;
+        width:900px;
+        height:158px;
+}
+.b_1
+{
+        background:url("b1.png") no-repeat; 
+        padding-left:16px; 
+        padding-top:20px; 
+        padding-right:20px; 
+        padding-bottom:40px;
+        margin-right:5px;
+}
+
+.b_2
+{
+        background:url("b2.png") no-repeat; 
+        padding-left:16px; 
+        padding-top:20px; 
+        padding-right:20px; 
+        padding-bottom:40px;
