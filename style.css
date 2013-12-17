@@ -43,6 +43,9 @@ ul li
         padding-left:16px; 
         padding-top:20px; 
         padding-right:20px; 
+
+        padding-bottom:40px;
+
         padding-bottom:40px;
         
 }
@@ -494,9 +497,13 @@ margin-left:0%;
         padding-top:100px;
 }
 
+
 .contacts
 {
    float: right;
    margin-right:30%;
    margin-top:100px;
 }
+
+
+
